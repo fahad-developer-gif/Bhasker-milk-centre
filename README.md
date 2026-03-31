@@ -64,16 +64,16 @@ Milk centre in malapally Nizamabad where you can get all dairy items
 
 <body>
 
-<h1>My Modern Store</h1>
+<h1>BHASKER MILK CENTRE AND HOME FOODS </h1>
 <p>Order directly on WhatsApp</p>
 
 <div class="container">
 
   <div class="product">
     <img src="https://via.placeholder.com/200">
-    <h3>T-Shirt</h3>
-    <p>Price: ₹499</p>
-    <button onclick="order('T-Shirt ₹499')">Order Now</button>
+    <h3>MILK</h3>
+    <p>Price: ₹80/Litre </p>
+    <button onclick="order('MILK ₹80')">Order Now</button>
   </div>
 
   <div class="product">
