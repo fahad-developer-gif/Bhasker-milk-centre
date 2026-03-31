@@ -1,4 +1,12 @@
 # Bhasker-milk-centre
+
+
+
+<h1> BHASKER MILK CENTRE</h1>
+
+
+
+
 Milk centre in malapally Nizamabad where you can get all dairy items 
 <!DOCTYPE html>
 <html>
@@ -94,6 +102,8 @@ function order(product) {
   window.open(url, '_blank');
 }
 </script>
+
+
 
 </body>
 </html>
